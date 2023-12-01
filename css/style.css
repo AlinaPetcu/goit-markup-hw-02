@@ -53,8 +53,8 @@ body{
 }
 
 
-.logo-part{
-    color: #f4f4f4fd;
+.logo-header{
+    color: var(--navy-blue);
         font-family: Raleway;
         font-size: 18px;
         font-style: normal;
@@ -64,6 +64,18 @@ body{
         text-transform: uppercase;
         text-decoration: none;
         
+}
+.logo-footer {
+    color: var(--cloud);
+    font-family: Raleway;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 116.667%;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
+    text-decoration: none;
+
 }
 .logo-part2-light{
 color: var(--cloud, #2E2F42);
