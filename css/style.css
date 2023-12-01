@@ -218,7 +218,6 @@ color: var(--ocean);
 }
 
 .all-button{
-        border: 1px solid var(--CORNFLOWER, #E7E9FC);
         background: var(--CLOUD, #F4F4FD);
             justify-content: center;
             color: var(--IRIS, #4D5AE5);
@@ -254,7 +253,6 @@ cursor: pointer;
 }
 
 .project-card-format{
-    border: 1px solid var(--cornflower, #E7E9FC);
         background: var(--white, #FFF);
             padding-bottom: 0px;
             flex-shrink: 0;
