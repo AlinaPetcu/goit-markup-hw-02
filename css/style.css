@@ -66,6 +66,7 @@ body{
         text-transform: uppercase;
         width: 71px;
         text-decoration: none;
+        color: #f4f4f4fd;
 }
 .logo-part2-light{
 color: var(--cloud, #2E2F42);
