@@ -55,8 +55,8 @@ body{
 }
 
 
-.logo-part2{
-    color: #f4f4f4fd;
+.logo-part{
+    color: var(--navy-blue); 
         font-family: Raleway;
         font-size: 18px;
         font-style: normal;
@@ -87,6 +87,20 @@ color: var(--cloud, #2E2F42);
         letter-spacing: 0.32px;
 }
 
+.studio-section:hover{
+color: var(--ocean);
+}
+.studio-section:focus {
+    color: var(--ocean);
+}
+
+.portfolio-section:hover {
+color: var(--ocean);
+}
+
+.portfolio-section:focus {
+    color: var(--ocean);
+}
 
 .topline-contact{
     color: var(--slate, #434455);
@@ -95,6 +109,7 @@ color: var(--cloud, #2E2F42);
         font-weight: 400;
         line-height: 150%;
         letter-spacing: 0.32px;
+        list-style: none;
         
 }
 
