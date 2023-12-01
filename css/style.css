@@ -52,7 +52,7 @@ body{
 
 
 .logo-part2{
-    color: var(--navy-blue, #2E2F42);
+    color: #f4f4f4fd;
         font-family: Raleway;
         font-size: 18px;
         font-style: normal;
