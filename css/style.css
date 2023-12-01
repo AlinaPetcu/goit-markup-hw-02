@@ -36,8 +36,6 @@ body{
 .top-line-bg {
     border-bottom: 1px solid var(--cornflower, #E7E9FC);
     background: var(--white, #FFF);
-    width: 1440px;
-    height: 72px;
     flex-shrink: 0;
 }
 
@@ -50,13 +48,12 @@ body{
         line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
-        width: 44px;
         text-decoration: none;
 }
 
 
 .logo-part{
-     color: #f4f4f4fd;
+    color: #f4f4f4fd;
         font-family: Raleway;
         font-size: 18px;
         font-style: normal;
@@ -64,7 +61,6 @@ body{
         line-height: 116.667%;
         letter-spacing: 0.54px;
         text-transform: uppercase;
-        width: 71px;
         text-decoration: none;
         
 }
@@ -117,8 +113,6 @@ color: var(--ocean);
 
 .dark-bg{
     background-color: var(--navy-blue);
-    width: 1440px;
-        height: 600px;
         flex-shrink: 0;
 }
 .title{
@@ -128,7 +122,6 @@ color: var(--ocean);
         font-weight: 700;
         line-height: 107.143%;
         letter-spacing: 1.12px;
-        width: 496px;
 }
 
 .button {
@@ -159,7 +152,6 @@ color: var(--ocean);
         font-weight: 500;
         line-height: 120%;
         letter-spacing: 0.4px;
-        width: 264px;
 }
 .feature-body{
     color: var(--slate, #434455);
@@ -167,7 +159,6 @@ color: var(--ocean);
         font-weight: 400;
         line-height: 150%;
         letter-spacing: 0.32px;
-        width: 264px;
 }
 
 .title-two{
@@ -189,8 +180,6 @@ color: var(--ocean);
 
 .light-bg{
     background: var(--cloud, #F4F4FD);
-    width: 1440px;
-        height: 732px;
         flex-shrink: 0;
 }
 
@@ -208,13 +197,10 @@ border-radius: 0px 0px 4px 4px;
 
 .team-member{
     background: url(<path-to-image>), lightgray -97.034px -0.927px / 181.897% 251.37% no-repeat;
-    width: 264px;
-    height: 260px;
 }
 
 .card-content{
     display: flex;
-        width: 232px;
         flex-direction: column;
         justify-content: center;
         align-items: center;
@@ -226,18 +212,9 @@ border-radius: 0px 0px 4px 4px;
             line-height: 120%;
             letter-spacing: 0.4px;
 }
-.card-content-position{
-    color: var(--slate, #434455);
-    font-weight: 400;
-    letter-spacing: 0.02em;
-    line-height: 1.5;
-    font-size: 16px;
-}
 
 .dark-bg-footer {
     background-color: var(--navy-blue);
-    width: 1440px;
-        height: 312px;
         flex-shrink: 0;
 }
 .footer-description{
@@ -246,7 +223,6 @@ border-radius: 0px 0px 4px 4px;
         font-weight: 400;
         line-height: 150%;
         letter-spacing: 0.32px;
-        width: 264px;
 }
 
 .filters{
@@ -303,8 +279,6 @@ cursor: pointer;
     border: 1px solid var(--cornflower, #E7E9FC);
         background: var(--white, #FFF);
         display: flex;
-            width: 360px;
-            height: 420px;
             padding-bottom: 0px;
             flex-direction: column;
             align-items: flex-start;
