@@ -19,11 +19,13 @@ body{
 
  .list {
      list-style-type: none;
+      font-weight: 500;
+      font-size: 16px;
+      line-height: 1.5;
+      letter-spacing: 0.02em;
+
     }
 
-a {
-  text-decoration: none;
-    }
 
 /*Classes style*/
 
@@ -35,16 +37,17 @@ a {
     flex-shrink: 0;
 }
 
-.logo-part1{
+.logo{
     color: var(--iris, #4D5AE5);
-        font-family: Raleway;
+        font-family: Raleway,sans-serif;
         font-size: 18px;
         font-style: normal;
         font-weight: 800;
-        line-height: 116.667%;
-        letter-spacing: 0.54px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
         text-transform: uppercase;
         width: 44px;
+        text-decoration: none;
 }
 
 
@@ -58,6 +61,7 @@ a {
         letter-spacing: 0.54px;
         text-transform: uppercase;
         width: 71px;
+        text-decoration: none;
 }
 .logo-part2-light{
 color: var(--cloud, #2E2F42);
