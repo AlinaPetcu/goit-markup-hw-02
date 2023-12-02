@@ -17,7 +17,7 @@ body{
     }
 
 
- .list {
+ .list{
      list-style-type: none;
       font-weight: 500;
       font-size: 16px;
@@ -26,7 +26,7 @@ body{
 
     }
 
-.link {
+.link{
     text-decoration: none;
     color:var(--navy-blue);
     font-style: normal;
@@ -35,7 +35,7 @@ body{
 
 /*Classes style*/
 
-.top-line-bg {
+.top-line-bg{
     background: var(--white, #FFF);
     flex-shrink: 0;
 }
@@ -65,7 +65,7 @@ body{
         text-decoration: none;
         
 }
-.logo-footer {
+.logo-footer{
     color: #f4f4f4fd;
     font-family: Raleway;
     font-size: 18px;
@@ -97,25 +97,25 @@ color: var(--cloud, #2E2F42);
         letter-spacing: 0.32px;
 }
 
-.studio-section:hover {
+.studio-section:hover{
 color: var(--ocean);
 }
-.studio-section:focus {
+.studio-section:focus{
     color: var(--ocean);
 }
 
-.portfolio-section:hover {
+.portfolio-section:hover{
 color: var(--ocean);
 }
 
-.portfolio-section:focus {
+.portfolio-section:focus{
     color: var(--ocean);
 }
 
-.contacts-section:hover {
+.contacts-section:hover{
 color: var(--ocean);
 }
-.contacts-section:focus {
+.contacts-section:focus{
     color: var(--ocean);
 }
 
@@ -144,7 +144,7 @@ color: var(--ocean);
         letter-spacing: 1.12px;
 }
 
-.button {
+.button{
     font-family:'Roboto',sans-serif;
     background: var(--iris, #4D5AE5);
     color: var(--white, #FFF);
@@ -213,7 +213,7 @@ color: var(--ocean);
             line-height: 1.5%;
             letter-spacing: 0.4px;
 }
-.card-contenth3 {
+.card-contenth3{
     justify-content: center;
     color: var(--navy-blue);
     text-align: center;
@@ -223,7 +223,7 @@ color: var(--ocean);
     letter-spacing: 0.4px;
 }
 
-.dark-bg-footer {
+.dark-bg-footer{
     background-color: var(--navy-blue);
         flex-shrink: 0;
 }
@@ -235,11 +235,9 @@ color: var(--ocean);
         letter-spacing: 0.32px;
 }
 
-.filters{
-}
-
 .all-button{
-        background: var(--CLOUD, #F4F4FD);
+    font-family: 'Roboto',sans-serif;
+            background: var(--CLOUD, #F4F4FD);
             justify-content: center;
             color: var(--IRIS, #4D5AE5);
                 text-align: center;
@@ -261,7 +259,7 @@ cursor: pointer;
 
 }
 
-.all-button:focus {
+.all-button:focus{
     color: var(--white, #FFF);
     text-align: center;
     font-size: 16px;
@@ -270,7 +268,6 @@ cursor: pointer;
     letter-spacing: 0.64px;
     background: var(--OCEAN, #404BBF);
 cursor: pointer;
-
 }
 
 .project-card-format{
