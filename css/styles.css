@@ -74,8 +74,12 @@ color: var(--OCEAN);
     letter-spacing: 0.54px;
     text-transform: uppercase;
     text-decoration: none;
-
 }
+
+.color-span-footer{
+color: var(--span, #F4F4F4FD);
+}
+
 .logo-part2-light{
 color: var(--cloud, #2E2F42);
     font-family: Raleway;
