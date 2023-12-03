@@ -18,19 +18,17 @@ body{
 
 
  .list{
-     list-style-type: none;
-      font-weight: 500;
-      font-size: 16px;
-      line-height: 1.5;
-      letter-spacing: 0.02em;
-      list-style: none;
-
+    list-style: none;
     }
 
 .link{
     text-decoration: none;
-    color:var(--navy-blue);
+    color:var(--navy-blue, #2e2f42);
     font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 
