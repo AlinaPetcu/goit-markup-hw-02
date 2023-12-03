@@ -273,7 +273,7 @@ cursor: pointer;
         align-self: stretch;
 }
 
-.portfolio-h2{
+.portfolio-h{
     color: var(--navy-blue, #2E2F42);
         font-size: 20px;
         font-weight: 500;
