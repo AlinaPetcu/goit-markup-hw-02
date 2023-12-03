@@ -113,11 +113,14 @@ color: var(--ocean);
         text-decoration: none;
         
 }
-.topline-contact:hover
-.topline-contact:focus{
+
+.contacts {
+    color: var(--slate);
+}
+.contacts:hover
+.contacts.focus {
     color: var(--ocean);
 }
-
 
 .dark-bg{
     background-color: var(--navy-blue);
