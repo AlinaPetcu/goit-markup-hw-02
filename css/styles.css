@@ -120,7 +120,9 @@ color: var(--ocean);
 .contacts {
     color: var(--slate);
 }
-.contacts:hover
+.contacts:hover {
+    color: var(--ocean);
+}
 .contacts:focus {
     color: var(--ocean);
 }
