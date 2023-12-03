@@ -121,7 +121,7 @@ color: var(--ocean);
     color: var(--slate);
 }
 .contacts:hover
-.contacts.focus {
+.contacts:focus {
     color: var(--ocean);
 }
 
