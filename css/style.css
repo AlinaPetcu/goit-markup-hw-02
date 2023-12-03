@@ -64,7 +64,7 @@ body{
         
 }
 .logo-footer{
-    color: #f4f4f4fd;
+    color: var(--cloud);
     font-family: Raleway;
     font-size: 18px;
     font-style: normal;
