@@ -103,7 +103,7 @@ color: var(--ocean);
 }
 
 .topline-contact{
-    color: var(--slate, #434455);
+    color: var(--navy-blue);
         font-style: normal;
         font-size: 16px;
         font-weight: 400;
@@ -115,7 +115,7 @@ color: var(--ocean);
 }
 .topline-contact:hover
 .topline-contact:focus{
-    color: #404bbf;
+    color: var(--ocean);
 }
 
 
