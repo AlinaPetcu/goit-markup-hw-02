@@ -7,6 +7,7 @@
     --cornflower: #E7E9FC;
     --cloud: #F4F4FD;
     --ocean: #404BBF;
+    --span: #f4f4f4fd;
 }
 body{
     font-family: 'Roboto',
@@ -64,7 +65,7 @@ body{
         
 }
 .logo-footer{
-    color: var(--cloud);
+    color: var(--span);
     font-family: Raleway;
     font-size: 18px;
     font-style: normal;
