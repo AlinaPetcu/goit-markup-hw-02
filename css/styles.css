@@ -40,7 +40,7 @@ body{
 }
 
 .logo{
-    color: var(--iris, #4D5AE5);
+    color: var(--navy-blue);
         font-family: Raleway,sans-serif;
         font-size: 18px;
         font-style: normal;
