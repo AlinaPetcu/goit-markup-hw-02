@@ -96,25 +96,10 @@ color: var(--cloud, #2E2F42);
         letter-spacing: 0.32px;
 }
 
-.studio-section:hover{
+.topline-section:hover{
 color: var(--ocean);
 }
-.studio-section:focus{
-    color: var(--ocean);
-}
-
-.portfolio-section:hover{
-color: var(--ocean);
-}
-
-.portfolio-section:focus{
-    color: var(--ocean);
-}
-
-.contacts-section:hover{
-color: var(--ocean);
-}
-.contacts-section:focus{
+.topline-section:focus{
     color: var(--ocean);
 }
 
