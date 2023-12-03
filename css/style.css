@@ -29,7 +29,7 @@ body{
 
 }
 .link.:focus{
-    color: #404bbf;
+    color: var(--OCEAN);
 }
 /*Classes style*/
 
@@ -87,7 +87,7 @@ color: var(--cloud, #2E2F42);
 }
 
 .topline-link{
-    color: var(--navy-blue, #2E2F42);
+    color: var(--navy-blue);
         font-size: 16px;
         font-style: normal;
         font-weight: 500;
@@ -103,7 +103,7 @@ color: var(--ocean);
 }
 
 .topline-contact{
-    color: var(--navy-blue);
+    color: var(--slate);
         font-style: normal;
         font-size: 16px;
         font-weight: 400;
