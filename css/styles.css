@@ -27,7 +27,7 @@ body{
 }
 
 .link:hover{
-
+color: var(--OCEAN);
 }
 .link.:focus{
     color: var(--OCEAN);
