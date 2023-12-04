@@ -84,10 +84,6 @@ color: var(--OCEAN);
     
 }
 
-.color-span-footer{
-color: var(#F4F4F4FD);
-}
-
 .logo-part2-light{
 color: var(--cloud, #2E2F42);
     font-family: Raleway;
