@@ -79,7 +79,7 @@ color: var(--OCEAN);
 
 .dark-bg-footer
 .logo-footer {
-    color: var(--span, #F4F4F4FD);
+    color: var(--ocean, #F4F4FD);
     background-color: var(--navy-blue);
     
 }
