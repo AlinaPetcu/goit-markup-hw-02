@@ -64,11 +64,11 @@ color: var(--OCEAN);
         text-decoration: none;
         
 }
-/*.dark-bg-footer {
+.dark-bg-footer {
     background-color: var(--navy-blue);
     flex-shrink: 0;
-}*/
-.dark-bg-footer,
+}
+.dark-bg-footer
 .logo-footer {
     color: var(--span, #F4F4F4FD);
     font-family: Raleway, sans-serif;
