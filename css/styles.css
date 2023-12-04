@@ -64,6 +64,11 @@ color: var(--OCEAN);
         text-decoration: none;
         
 }
+/*.dark-bg-footer {
+    background-color: var(--navy-blue);
+    flex-shrink: 0;
+}*/
+.dark-bg-footer,
 .logo-footer {
     color: var(--span, #F4F4F4FD);
     font-family: Raleway, sans-serif;
@@ -223,10 +228,6 @@ color: var(--ocean);
     letter-spacing: 0.4px;
 }
 
-.dark-bg-footer{
-    background-color: var(--navy-blue);
-        flex-shrink: 0;
-}
 .footer-description{
     color: var(--cloud, #F4F4FD);
         font-size: 16px;
