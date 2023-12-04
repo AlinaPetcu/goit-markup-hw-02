@@ -94,16 +94,6 @@ color: var(--OCEAN);
     letter-spacing: 0.32px;
 }
 
-.logo-part2-light{
-color: var(--cloud, #2E2F42);
-    font-family: Raleway;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 800;
-    line-height: 116.667%;
-    letter-spacing: 0.54px;
-    text-transform: uppercase;
-}
 
 .topline-link{
     color: var(--navy-blue);
