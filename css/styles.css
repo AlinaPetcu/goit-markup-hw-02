@@ -64,7 +64,7 @@ color: var(--OCEAN);
         text-decoration: none;
         
 }
-.dark-bg-footer {
+.footer-content {
     background-color: var(--navy-blue);
     flex-shrink: 0;
     font-family: Raleway, sans-serif;
@@ -77,12 +77,12 @@ color: var(--OCEAN);
         text-decoration: none;
 }
 
-.dark-bg-footer
-.logo-footer {
-    color: var(--ocean, #F4F4FD);
-    background-color: var(--navy-blue);
-    
+
+.footer-content .span {
+    color: #F4F4FD;
 }
+
+
 
 .logo-part2-light{
 color: var(--cloud, #2E2F42);
